@@ -2517,32 +2517,6 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>OP_01_02_MAIN_TASK_COMPLETED</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_02_MAIN_TASK_COMPLETED.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_02_MAIN_TASK_FAILED</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_02_MAIN_TASK_FAILED.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
 							<Value>OP_01_02_MAIN_TASK_PHRASE_1</Value>
 						</State>
 					</StateList>
@@ -2738,58 +2712,6 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>OP_01_03_CSM_006_MAIN_TASK_FAIL_ALL_PLAYERS_DIE</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_03_CSM_006_MAIN_TASK_FAIL_ALL_PLAYERS_DIE.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_03_CSM_007_MAIN_TASK_COMPLETE_CARRIER_SAVE</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_03_CSM_007_MAIN_TASK_COMPLETE_CARRIER_SAVE.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_03_CSM_009_FIXERISDEAD</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_03_CSM_009_FIXERISDEAD.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_03_CSM_010_CARRIERISDEAD</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_03_CSM_010_CARRIERISDEAD.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
 							<Value>OP_01_03_CSM_011_TASK_KILL_CARRIERS</Value>
 						</State>
 					</StateList>
@@ -2835,58 +2757,6 @@
 					<FilesList>
 						<File>
 							<Name>Ru_PVE_OP_01_04_0024_WARNING_OF_TEAM.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_04_0031_DEFENSE_MAIN_TASK_SUCCESS</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_04_0031_DEFENSE_MAIN_TASK_SUCCESS.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_04_0032_DEFENSE_MAIN_TASK_SUCCESS</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_04_0032_DEFENSE_MAIN_TASK_SUCCESS.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_04_004_DEFENSE_MAIN_TASK_FAIL1</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_04_004_DEFENSE_MAIN_TASK_FAIL1.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_04_005_DEFENSE_MAIN_TASK_FAIL2</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_01_04_005_DEFENSE_MAIN_TASK_FAIL2.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -3349,58 +3219,6 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>OP_02_02_CSM_009_FINISH_FAIL_2</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_02_CSM_009_FINISH_FAIL_2.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_02_02_CSM_010_FINISH_SUCCESS</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_02_CSM_010_FINISH_SUCCESS.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_02_02_CSM_011_FINISH_FAIL_1</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_02_CSM_011_FINISH_FAIL_1.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_02_02_CSM_012_FINISH_FAIL_3</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_02_CSM_012_FINISH_FAIL_3.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
 							<Value>OP_02_02_CSM_013_RAPTOR_HINT</Value>
 						</State>
 					</StateList>
@@ -3544,64 +3362,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>OP_02_03_CSM_007_MAIN_MESSAGE_5</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_03_CSM_007_MAIN_MESSAGE_5.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_02_03_CSM_009_MAIN_MESSAGE_7</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_03_CSM_009_MAIN_MESSAGE_7.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_02_03_CSM_010_MAIN_MESSAGE_WIN</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_03_CSM_010_MAIN_MESSAGE_WIN.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
 							<Value>OP_02_03_CSM_010_SECOND_TASK_04_HINT</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
 							<Name>Ru_PVE_OP_02_03_CSM_010_SECOND_TASK_04_HINT.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_02_03_CSM_014_MAIN_MESSAGE_WIN</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>Ru_PVE_OP_02_03_CSM_014_MAIN_MESSAGE_WIN.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -3869,32 +3635,6 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>OP_01_01_MAIN_TASK_COMPLETED</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>TISHINA.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_01_MAIN_TASK_FAILED</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>TISHINA.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
 							<Value>OP_01_03_CHAT_018_MAIN_TASK_COMPLETE_CARRIER_SAVE</Value>
 						</State>
 					</StateList>
@@ -3961,19 +3701,6 @@
 						<State>
 							<Name>PVETask</Name>
 							<Value>OP_01_03_CSM_003_RUNNER_GO</Value>
-						</State>
-					</StateList>
-					<FilesList>
-						<File>
-							<Name>TISHINA.wem</Name>
-						</File>
-					</FilesList>
-				</Path>
-				<Path>
-					<StateList>
-						<State>
-							<Name>PVETask</Name>
-							<Value>OP_01_03_CSM_004_TIME_IS_OVER</Value>
 						</State>
 					</StateList>
 					<FilesList>
@@ -4233,12 +3960,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_ALLY_TRANSP_DETECTED</Value>
+							<Value>TRIAL_PRIME_SPEECH_011</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_ALLY_TRANSP_DETECTED.wem</Name>
+							<Name>IDS_TRIAL_PRIME_SPEECH_011.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4246,12 +3973,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_ALLY_TRANSP_SUNK</Value>
+							<Value>TRIAL_PRIME_SPEECH_012</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_ALLY_TRANSP_SUNK.wem</Name>
+							<Name>IDS_TRIAL_PRIME_SPEECH_012.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4259,12 +3986,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_CHAT_TEAM_1_MESSAGE</Value>
+							<Value>EV_SA24_ROUND_START_1</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_CHAT_TEAM_1_MESSAGE.wem</Name>
+							<Name>IDS_EV_SA24_ROUND_START_1.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4272,12 +3999,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_ENEMY_TRANSP_SUNK</Value>
+							<Value>EV_SA24_ROUND_START_2</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_ENEMY_TRANSP_SUNK.wem</Name>
+							<Name>IDS_EV_SA24_ROUND_START_2.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4285,12 +4012,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_LOS_TEAM_0_REASON_1</Value>
+							<Value>EV_SA24_BUST_SCORE_1</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_LOS_TEAM_0_REASON_1.wem</Name>
+							<Name>IDS_EV_SA24_BUST_SCORE_1.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4298,12 +4025,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_LOS_TEAM_0_REASON_2</Value>
+							<Value>EV_SA24_BUST_SCORE_2</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_LOS_TEAM_0_REASON_2.wem</Name>
+							<Name>IDS_EV_SA24_BUST_SCORE_2.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4311,12 +4038,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_LOS_TEAM_1_REASON_3</Value>
+							<Value>EV_SA24_BUST_SCORE_3</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_LOS_TEAM_1_REASON_3.wem</Name>
+							<Name>IDS_EV_SA24_BUST_SCORE_3.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4324,12 +4051,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_LOS_TEAM_1_REASON_4</Value>
+							<Value>EV_SA24_BUST_SCORE_4</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_LOS_TEAM_1_REASON_4.wem</Name>
+							<Name>IDS_EV_SA24_BUST_SCORE_4.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4337,12 +4064,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_RULE_1_TEAM_0</Value>
+							<Value>EV_SA24_BUST_SCORE_5</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_RULE_1_TEAM_0.wem</Name>
+							<Name>IDS_EV_SA24_BUST_SCORE_5.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4350,12 +4077,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_WIN_TEAM_0_REASON_3</Value>
+							<Value>EV_SA24_BUST_SCORE_6</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_WIN_TEAM_0_REASON_3.wem</Name>
+							<Name>IDS_EV_SA24_BUST_SCORE_6.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4363,12 +4090,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_WIN_TEAM_0_REASON_4</Value>
+							<Value>EV_SA24_ROUND_5_COMPLETE</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_WIN_TEAM_0_REASON_4.wem</Name>
+							<Name>IDS_EV_SA24_ROUND_5_COMPLETE.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4376,12 +4103,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_WIN_TEAM_1_REASON_1</Value>
+							<Value>EV_SA24_ROUND_4_COMPLETE</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_WIN_TEAM_1_REASON_1.wem</Name>
+							<Name>IDS_EV_SA24_ROUND_4_COMPLETE.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4389,12 +4116,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_WIN_TEAM_1_REASON_2</Value>
+							<Value>EV_SA24_ROUND_3_COMPLETE</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>RU_CONVOY_LIGHT_WIN_TEAM_1_REASON_2.wem</Name>
+							<Name>IDS_EV_SA24_ROUND_3_COMPLETE.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4402,12 +4129,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_CHAT_TEAM_0_MESSAGE</Value>
+							<Value>EV_SA24_ROUND_2_COMPLETE</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>TISHINA.wem</Name>
+							<Name>IDS_EV_SA24_ROUND_2_COMPLETE.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4415,12 +4142,12 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_ENEMY_TRANSP_DETECTED</Value>
+							<Value>EV_SA24_ROUND_1_COMPLETE</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>TISHINA.wem</Name>
+							<Name>IDS_EV_SA24_ROUND_1_COMPLETE.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
@@ -4428,12 +4155,753 @@
 					<StateList>
 						<State>
 							<Name>PVETask</Name>
-							<Value>CONVOY_LIGHT_RULE_1_TEAM_1</Value>
+							<Value>EV_SA24_FAIL_1</Value>
 						</State>
 					</StateList>
 					<FilesList>
 						<File>
-							<Name>TISHINA.wem</Name>
+							<Name>IDS_EV_SA24_FAIL_1.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_WIN_1</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_WIN_1.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_END_1</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_END_1.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_DAMAGE_RULES_1</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_DAMAGE_RULES_1.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_PHASE3_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_PHASE3_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_PHASE4_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_PHASE4_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_PHASE5_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_PHASE5_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_SPEECH_001</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_SPEECH_001.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_SPEECH_002</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_SPEECH_002.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_SPEECH_003</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_SPEECH_003.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_FIRST_DD_SPAWN</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_FIRST_DD_SPAWN.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_FIRST_BS_SPAWN</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_FIRST_BS_SPAWN.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_FIRSRT_CR_SPAWN</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_FIRSRT_CR_SPAWN.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_HINT_CS_MODIFICATOR</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_HINT_CS_MODIFICATOR.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_PHASE2_HINT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_PHASE2_HINT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_PHASE2_HINT2</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_PHASE2_HINT2.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_SPEECH_004</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_SPEECH_004.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_SPEECH_005</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_SPEECH_005.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_FRAGS_RULES</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_FRAGS_RULES.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_PHASE2_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_PHASE2_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_PHASE2B_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_PHASE2B_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_PHASE3A_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_PHASE3A_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_PHASE3B_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_PHASE3B_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_PHASE3C_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_PHASE3C_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_PHASE1_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_PHASE1_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_FRAGS_HINT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_FRAGS_HINT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_001</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_001.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_002</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_002.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_003</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_003.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_004</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_004.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_005</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_005.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_006</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_006.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_007</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_007.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_008</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_008.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_FRAG_PRIME_SPEECH_009</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_FRAG_PRIME_SPEECH_009.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_CITADEL_RULES_1</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_CITADEL_RULES_1.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_CIT_PRIME_PHASE2_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_CIT_PRIME_PHASE2_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_CIT_PRIME_PHASE3_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_CIT_PRIME_PHASE3_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_CIT_PRIME_PHASE4_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_CIT_PRIME_PHASE4_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_CIT_PRIME_PHASE5_ANNONCEMENT</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_CIT_PRIME_PHASE5_ANNONCEMENT.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_CITADEL_SPEECH_001</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_CITADEL_SPEECH_001.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>EV_SA24_CITADEL_SPEECH_002</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_EV_SA24_CITADEL_SPEECH_002.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_010</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_010.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_001</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_001.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_002</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_002.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_003</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_003.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_004</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_004.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_005</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_005.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_006</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_006.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_007</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_007.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_008</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_008.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_009</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_009.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_013</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_013.wem</Name>
+						</File>
+					</FilesList>
+				</Path>
+				<Path>
+					<StateList>
+						<State>
+							<Name>PVETask</Name>
+							<Value>TRIAL_PRIME_SPEECH_014</Value>
+						</State>
+					</StateList>
+					<FilesList>
+						<File>
+							<Name>IDS_TRIAL_PRIME_SPEECH_014.wem</Name>
 						</File>
 					</FilesList>
 				</Path>
